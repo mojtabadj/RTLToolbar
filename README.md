@@ -1,7 +1,7 @@
 # RTL Toolbar
 Action Menu | Snipper Menu
 ---- | ----
-![Action Menu](https://github.com/mojtabadj/PersianMaterialDateTimePicker/raw/master/resources/action_menu.jpg) | ![Snipper Menu](https://github.com/mojtabadj/PersianMaterialDateTimePicker/raw/master/resources/snipper_menu.jpg)
+![Action Menu](https://github.com/mojtabadj/RTLToolbar/raw/master/resources/action_menu.jpg) | ![Snipper Menu](https://github.com/mojtabadj/RTLToolbar/raw/master/resources/snipper_menu.jpg)
 
 ## Create RTL Toolbar
 In `Layout`
